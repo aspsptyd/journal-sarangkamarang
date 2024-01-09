@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Jurnal Sarangkamarang',
-  tagline: 'Sarangkamarang is cool cok!',
+  title: 'Jurnal Development & Insight',
+  tagline: 'Sarangkamarang is back bro, now we shared for you and improve it!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -59,9 +59,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Jurnal Sarangkamarang',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Jurnal Development Sarangkamarang',
         src: 'img/logo.svg',
       },
       items: [
